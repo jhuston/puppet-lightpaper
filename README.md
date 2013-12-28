@@ -1,10 +1,6 @@
 # LightPaper Puppet Module for Boxen
 
-An example of how we write Puppet modules for Boxen. Replace this
-paragraph with a short explanation of what the heck makes your module
-useful.
-
-A great module has a working travis build
+Installs LightPaper markdown editor to /Applications.
 
 [![Build Status](https://travis-ci.org/jhuston/puppet-lightpaper.png?branch=master)](https://travis-ci.org/jhuston/puppet-lightpaper)
 
